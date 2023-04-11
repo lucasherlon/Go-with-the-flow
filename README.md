@@ -1,2 +1,2 @@
 # Go-with-the-flow
-Learning the Golang
+Playing with the Golang
