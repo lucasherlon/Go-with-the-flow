@@ -8,6 +8,7 @@ import (
 	"strconv"
 	"strings"
 )
+
 func main() {
 	var input1 string
 	var input2 string
