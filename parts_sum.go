@@ -2,7 +2,6 @@ package main
 
 import 	"fmt"
 
-
 func SumSlice(slice []uint64) uint64 {
 	var sum uint64
 	for _, val := range slice {
