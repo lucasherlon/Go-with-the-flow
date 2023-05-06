@@ -1,3 +1,4 @@
+
 // hackerranck 03
 func compareTriplets(a []int32, b []int32) []int32 {
     points := []int32{0, 0}
